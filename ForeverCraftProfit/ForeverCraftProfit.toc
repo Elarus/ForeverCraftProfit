@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Forever Craft Profit
+## IconTexture: Interface\Icons\INV_Misc_Coin_01
+## Notes: Rezeptgewinne, Materialfenster, AH- und Haendlerpreise
+## Author: Custom
+## Version: 0.6.12
+## SavedVariables: ForeverCraftProfitDB
+## OptionalDeps: Auctionator, PriceScanner, Syndicator, Bagnator
+ForeverCraftProfit.lua
